@@ -1,20 +1,11 @@
 {
-  "name": "mern-agro-back",
+  "name": "redux-agro-back",
   "version": "1.0.0",
   "description": "",
-  "main": "backend/server.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nittin",
-  "license": "ISC",
-  "dependencies": {
-    "bcrypt": "^5.1.1",
-    "cookie-parser": "^1.4.6",
-    "dotenv": "^16.4.5",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.3.2",
-    "nodemailer": "^6.9.13",
-    "nodemon": "^3.1.0"
-  }
+  "license": "ISC"
 }
